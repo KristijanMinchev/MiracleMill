@@ -1,0 +1,306 @@
+<html lang="en"><head>
+<title>
+EvaGpoint
+</title>	
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="bootstrap.min.css">
+<!-- jQuery library -->
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-186738734-6&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-185813726-1&amp;l=dataLayer&amp;cx=c"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link href="all.min.css" rel="stylesheet">
+
+<meta charset="UTF-8">
+<link href="grayscale.min.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="shortcut icon" href="logo.jpg">
+<script type="text/javascript" async="" src=""></script><script type="text/javascript">
+    function entermemberarea() {
+top.location = "https://lgfmoney.g2afse.com/sl?id=5f95e983127bd6bcbd271fd2&pid=15&sub1=minchev&sub2=evag"
+   
+   
+    }
+	
+</script>
+<style>
+body {
+margin : 0;
+background-image : url("pokonecna.jpg");
+background-repeat : no-repeat;
+background-position: center;
+background-size: cover;
+width: 100vw;
+max-width: 100%;
+font-family: 'Nunito';
+letter-spacing: 0.0625em;
+overflow-x: hidden;
+overflow-y: scroll;
+}
+.btn-main-join {
+  font-size: 1.1em;
+  font-weight: bold;
+  background-color: red;
+  -webkit-box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.75);
+    padding: 1.3rem 2.2rem;
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  border: 0;
+}
+.example {
+  padding: 20px;
+  color: white;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .example {background: red;}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .example {background: green;}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .example {background: blue;}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .example {background: orange;}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .example {background: pink;}
+}
+
+footer {
+  padding: 5rem 0;
+}
+
+</style>
+</head><body>
+<header class="masthead">
+<div class="container d-flex h-100 align-items-center">
+<div class="mx-auto text-center">
+<h1 class="Xmx-auto Xmy-0 text-red" id="welcome"><b>WELCOME TO EVA G POINT<b></b></b></h1><b><b>
+<h1 class="Xmx-auto Xmy-0 text-red" id="welcome"><b>WELCOME TO EVA G POINT<b></b></b></h1><b><b>
+<h2 class="Xmx-auto Xmy-0 text-white" id="connect">Boys follow girls , real men escort them</h2>
+<h2 class="Xmx-auto Xmy-0 text-white" id="free">Find your match made in heaven<br>
+100%<b> FREE</b> registration <b>ALWAYS</b> and <b>FOREVER</b></h2>
+<a rel="noreferrer" id="btn" href="javascript:void(0);" onclick="javascript:gtag('event','Click',{'event_category':'Join More Link','event_label':'Click','value':'Join More'});entermemberarea(); " class="btn btn-danger btn-main-join" style="  border-radius: 100px; xfont-size: .75rem !important;">
+          <img src="crveno.png" style="width: 20px; height: 20px; display: inline; vertical-align:middle; line-height: 1.5">
+          JOIN NOW</a>
+</b></b></b></b></div><b><b>
+</b></b></div><b><b>
+</b></b></header><b><b>
+<!-- Bootstrap core JavaScript -->
+  <script src="jquery.min.js"></script>
+  <script src="bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="grayscale.min.js"></script>
+
+  &lt;<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-QDV338YXWX"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-184973993-2"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-185813726-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-185813726-1');
+</script>
+
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-184973993-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-186738734-6');
+
+  
+
+      function translate_mk(){
+        window.close();
+      }
+      function translate_de(){
+        $("#welcome").html("Willkommen bei EvaGpoint")
+        $("#connect").html("Jungen folgen Mädchen, echte Männer begleiten sie")
+        $("#free").html("Finden Sie Ihr Match made in Heaven 100% KOSTENLOSE Registrierung IMMER und FÜR IMMER")
+        $("#btn").html("JETZT BEITRETEN")
+      }
+      function translate_FR(){
+        $("#welcome").html("Bienvenue à EvaGpoint")
+        $("#connect").html("Les garçons suivent les filles, les vrais hommes les escortent")
+        $("#free").html("Trouvez votre match Made in Heaven Inscription 100% GRATUITE TOUJOURS et POUR TOUJOURS")
+        $("#btn").html("ADHÉRER MAINTENANT")
+      }
+      function translate_it(){
+        $("#welcome").html("Benvenuto a EvaGpoint")
+        $("#connect").html("I ragazzi seguono le ragazze, i veri uomini le scortano")
+        $("#free").html("Trova la tua partita fatta in paradiso Iscrizione GRATUITA al 100% SEMPRE e PER SEMPRE")
+        $("#btn").html("ISCRIVITI ADESSO")
+      }
+      function translate_fi(){
+        $("#welcome").html("tervetuloa EvaGpoint")
+        $("#connect").html("Pojat seuraavat tyttöjä, todelliset miehet saattavat heidät")
+        $("#free").html("Löydä taivaassasi tehty ottelu 100% ILMAINEN rekisteröinti AINA ja Ikuisesti")
+        $("#btn").html("LIITY NYT")
+      }
+
+      function translate_se(){
+        $("#welcome").html("Välkommen till EvaGpoint")
+        $("#connect").html("Pojkar följer tjejer, riktiga män eskorterar dem")
+        $("#free").html("Hitta din match gjord i himlen 100% GRATIS registrering ALLTID och FOREVER")
+        $("#btn").html("GÅ MED NU")
+      }
+
+      function translate_es(){
+        $("#welcome").html("Bienvenido a EvaGpoint")
+        $("#connect").html("Los chicos siguen a las chicas, los hombres de verdad las escoltan")
+        $("#free").html("Encuentra tu pareja hecha en el cielo 100% de registro GRATIS SIEMPRE y PARA SIEMPRE")
+        $("#btn").html("ÚNETE AHORA")
+      }
+
+      function translate_dutch(){
+        $("#welcome").html("Welkom bij EvaGpoint")
+        $("#connect").html("Jongens volgen meisjes, echte mannen begeleiden hen")
+        $("#free").html("Vind jouw match made in heaven 100% GRATIS registratie ALTIJD en VOOR ALTIJD")
+        $("#btn").html("WORD NU LID")
+      }
+
+      function translate_hu(){
+        $("#welcome").html("Üdvözöljük a EvaGpoint oldalon")
+        $("#connect").html("Fiúk követik a lányokat, igazi férfiak kísérik őket")
+        $("#free").html("Találja meg a mennyben készült mérkőzést 100% INGYENES regisztráció MINDIG és MINDIG")
+        $("#btn").html("CSATLAKOZZ")
+      }
+      function translate_cz(){
+        $("#welcome").html("Vítejte v EvaGpoint")
+        $("#connect").html("Chlapci sledují dívky, skuteční muži je doprovázejí")
+        $("#free").html("Najděte svůj zápas vyrobený v nebi 100%<BR> ZDARMA registrace VŽDY a NAVŽDY")
+        $("#btn").html("PŘIDEJ SE TEĎ")
+      }
+      function translate_dk(){
+        $("#welcome").html("Velkommen til EvaGpoint")
+        $("#connect").html("Drenge følger piger, ægte mænd eskorterer dem")
+        $("#free").html("Find din kamp lavet i himlen 100% GRATIS registrering ALTID og FOR evigt")
+        $("#btn").html("DELTAG NU")
+      }
+      function translate_no(){
+        $("#welcome").html("Velkommen til EvaGpoint")
+        $("#connect").html("Gutter følger jenter, ekte menn eskorterer dem")
+        $("#free").html("Finn din kamp laget i himmelen 100% GRATIS registrering ALTID og FOR EVIG")
+        $("#btn").html("BLI MED NÅ")
+      }
+      function translate_pt(){
+        $("#welcome").html("Bem-vindo ao EvaGpoint")
+        $("#connect").html("Meninos seguem meninas, homens reais as escoltam")
+        $("#free").html("Encontre o seu par feito no paraíso Registro 100% GRATUITO SEMPRE E PARA SEMPRE")
+        $("#btn").html("ENTRAR")
+      }
+      
+
+    $(document).ready(function () {
+      initCountry().then(result => JSON.stringify(result, function (key, value) {
+	  console.log(value);
+        if (value == "MK") {
+         translate_mk(); 
+
+        } else if (value == "DE" || value == "CH" || value == "AT") {
+          translate_de();}
+          else if (value == "FR"){
+            translate_FR()
+          }
+          else if (value == "IT"){
+            translate_it()
+          }
+          else if (value == "FI"){
+            translate_fi()
+          }
+          else if (value == "SE"){
+            translate_se()
+          }
+          else if (value == "ES"){
+            translate_es()
+          }
+          else if (value == "NL" || value == "BE"){
+            translate_dutch()
+          }
+          else if (value == "HU" ){
+            translate_hu()
+          }
+          else if (value == "CZ" ){
+            translate_cz()
+          }
+          else if (value == "DK" ){
+            translate_dk()
+          }
+          else if (value == "NO" ){
+            translate_no()
+          }
+          else if (value == "PT" ){
+            translate_pt()
+          }
+        
+      })).catch(e => console.log(e))
+
+      //regular expressions to extract IP and country values
+      const countryCodeExpression = /loc=([\w]{2})/;
+      const userIPExpression = /ip=([\w\.]+)/;
+
+      //automatic country determination.
+      function initCountry() {
+        return new Promise((resolve, reject) => {
+          var xhr = new XMLHttpRequest();
+          xhr.timeout = 3000;
+          xhr.onreadystatechange = function () {
+            if (this.readyState == 4) {
+              if (this.status == 200) {
+                countryCode = countryCodeExpression.exec(this.responseText)
+                ip = userIPExpression.exec(this.responseText)
+                if (countryCode === null || countryCode[1] === '' ||
+                  ip === null || ip[1] === '') {
+                  reject('IP/Country code detection failed');
+                }
+                    // < !--let result = { -- >
+                    //     < !-- "countryCode": countryCode[1], -->
+                    //     < !-- "IP": ip[1]-- >
+                    // < !-- }; -->
+                let result = countryCode[1]
+              resolve(result)
+            } else {
+              reject(xhr.status)
+            }
+          }
+        }
+        xhr.ontimeout = function () {
+            reject('timeout')
+          }
+        xhr.open('GET', 'https://www.cloudflare.com/cdn-cgi/trace', true);
+        xhr.send();
+      });
+}
+});
+// < !--German, French, Italian, Finnish, Swedish, Spanish, Dutch, Hungarian, Czech, Danish, Norwegian, Portuguese-- >
+  </script>
+
+
+
+</b></b></body></html>
