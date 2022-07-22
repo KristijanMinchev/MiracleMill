@@ -19,7 +19,7 @@ EvaGpoint
 <link rel="shortcut icon" href="logo.jpg">
 <script type="text/javascript" async="" src=""></script><script type="text/javascript">
     function entermemberarea() {
-top.location = "https://lgfmoney.g2afse.com/sl?id=5f95e983127bd6bcbd271fd2&pid=15&sub1=minchev&sub2=evag"
+top.location = "https://lgfmoney.g2afse.com/sl?id=5f95e983127bd6bcbd271fd2&pid=15&sub1=""&sub2=evag"
    
    
     }
@@ -28,7 +28,7 @@ top.location = "https://lgfmoney.g2afse.com/sl?id=5f95e983127bd6bcbd271fd2&pid=1
 <style>
 body {
 margin : 0;
-background-image : url("pokonecna.jpg");
+background-image : url("final.jpg");
 background-repeat : no-repeat;
 background-position: center;
 background-size: cover;
